@@ -2,7 +2,7 @@
 
 ## 概要
 
-[Twitterアナリティクス](https://analytics.twitter.com/)のcsvを自動でダウンロードし、Google Spreadsheetに書き込むスクリプト。
+Twitterにログインしたのち、[Twitterアナリティクス](https://analytics.twitter.com/)(ツイートアクティビティ)の直近1週間分のcsvを自動でダウンロードし、指定のSpreadsheet上のSheetに書き込むスクリプト。
 
 **本スクリプトの利用に起因していかなるトラブルや損害が発生した場合も、当方は一切の責任を負担できかねますので、自己責任でのご利用をお願いします。**
 
